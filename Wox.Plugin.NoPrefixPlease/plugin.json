@@ -1,0 +1,12 @@
+{
+    "ID":"0f724c02c0534b95b8bcfcab8b958ba8",
+    "ActionKeyword":"*",
+    "Name":"NoPrefixPlease",
+    "Description":"drop the prefix for searches",
+    "Author":"Thorou",
+    "Version":"1.1.0",
+    "Language":"csharp",
+    "Website":"thorou.tk",
+    "IcoPath":"icon.png",
+    "ExecuteFileName":"Wox.Plugin.NoPrefixPlease.dll"
+}
